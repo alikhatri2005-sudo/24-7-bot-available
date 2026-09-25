@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Bhen_Ka",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Bhen_Ka_Laura",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "chaosphagesmp.play.hosting",
+    "port": 25952,
     "version": "1.20.1",
     "try-creative": false
   },
